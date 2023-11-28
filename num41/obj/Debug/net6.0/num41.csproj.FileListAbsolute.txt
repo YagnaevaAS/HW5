@@ -1,0 +1,15 @@
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.csproj.AssemblyReference.cache
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.AssemblyInfoInputs.cache
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.AssemblyInfo.cs
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.csproj.CoreCompileInputs.cache
+D:\GB_Study\C#\HW5\num41\bin\Debug\net6.0\num41.exe
+D:\GB_Study\C#\HW5\num41\bin\Debug\net6.0\num41.deps.json
+D:\GB_Study\C#\HW5\num41\bin\Debug\net6.0\num41.runtimeconfig.json
+D:\GB_Study\C#\HW5\num41\bin\Debug\net6.0\num41.dll
+D:\GB_Study\C#\HW5\num41\bin\Debug\net6.0\num41.pdb
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.dll
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\refint\num41.dll
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.pdb
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\num41.genruntimeconfig.cache
+D:\GB_Study\C#\HW5\num41\obj\Debug\net6.0\ref\num41.dll
